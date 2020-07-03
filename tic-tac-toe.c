@@ -136,7 +136,7 @@ int main(){
     	printf("Player %d win.",--player);
 	}
 	else{
-		printf("GAME OVER\nNOBODY WÝNS^^");
+		printf("GAME OVER\nNOBODY WINS^^");
 	}
 		
 	return 0;
