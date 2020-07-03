@@ -71,7 +71,7 @@ int main(){
 	char n;	
 	int m,i;
 	int player=1;
-    xox(array,9);
+    xox();
 	
 	
     do{
