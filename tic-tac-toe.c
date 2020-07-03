@@ -10,7 +10,7 @@ int checkwin();
 
 int checkwin(){
 	
-	//FUNCTION TO RETURN GAME STATUS
+    //FUNCTION TO RETURN GAME STATUS
     //1 FOR GAME IS OVER WITH RESULT
     //-1 FOR GAME IS IN PROGRESS
     //O GAME IS OVER AND NO RESULT
@@ -136,7 +136,7 @@ int main(){
     	printf("Player %d win.",--player);
 	}
 	else{
-		printf("GAME OVER\nNOBODY W›NS^^");
+		printf("GAME OVER\nNOBODY W√ùNS^^");
 	}
 		
 	return 0;
